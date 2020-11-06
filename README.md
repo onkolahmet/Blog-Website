@@ -8,4 +8,7 @@ It contains [Lorem Ipsum](https://www.lipsum.com) contents which is a placeholde
 ## Deployed Version of The Site
 http://journal-with-db.herokuapp.com.
 
-# To Use Locally
+## To Use Locally
+1. Clone local branch $ git clone -b local https://github.com/onkolahmet/blog-website.
+2. Run 'npm install' in root folder.
+3. Run 'nodemon app.js' in root folder.
